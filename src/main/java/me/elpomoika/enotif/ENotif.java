@@ -48,7 +48,9 @@ public final class ENotif extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
+	// load config
         loadConfig();
+	// register listeners
         Bukkit.getPluginManager().registerEvents(this, (Plugin)this);
         Bukkit.getPluginManager().registerEvents(new DeathEvent(config), this);
         Bukkit.getPluginManager().registerEvents(new PlayerJoinListener(), this);
