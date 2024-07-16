@@ -1,0 +1,5 @@
+me\elpomoika\enotif\ENotif.class
+me\elpomoika\enotif\listeners\DeathEvent.class
+me\elpomoika\enotif\listeners\PlayerLeaveListener.class
+me\elpomoika\enotif\listeners\PlayerJoinListener.class
+me\elpomoika\enotif\utils\Config.class

@@ -1,0 +1,14 @@
+# Надписи на экране при входе
+title: "&c&lFun&f&lTime"
+subtitle: "&x&f&5&f&5&0&3&k: &x&f&c&6&4&0&1&lДобро пожаловать! &x&f&5&f&5&0&3&k:"
+
+# Звук при входе
+sound: true
+soundType: ENTITY_PLAYER_LEVELUP
+volume: 0.5
+pitch: 1.0
+
+# Настройка надписи на экране
+fadein: 10
+stay: 70
+fadeout: 20

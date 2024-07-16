@@ -1,0 +1,4 @@
+name: ENotif
+version: '${project.version}'
+main: me.elpomoika.enotif.ENotif
+api-version: '1.16'

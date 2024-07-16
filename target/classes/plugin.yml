@@ -1,0 +1,4 @@
+name: ENotif
+version: '1.0'
+main: me.elpomoika.enotif.ENotif
+api-version: '1.16'
